@@ -1,7 +1,7 @@
 # deno-alpine
 A simple alpine docker image with deno installed
 
-This image tracks the deno version and does not expose a latest tag.
+This image tracks the deno version.
 
 ## Usage
 
