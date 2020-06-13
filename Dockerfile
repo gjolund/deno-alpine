@@ -2,7 +2,7 @@ FROM frolvlad/alpine-glibc
 
 WORKDIR /root/
 
-ENV DENO_VERSION=1.0.5
+ENV DENO_VERSION=1.1.0
 
 # Install deno
 RUN apk add --virtual .download --no-cache curl \
