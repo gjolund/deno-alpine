@@ -6,7 +6,7 @@ This image tracks the deno version.
 ## Usage
 
 ```
-FROM austinrivas/deno-alpine:1.0.5
+FROM austinrivas/deno-alpine:1.1.0
 ```
 
 ## [DockerHub](https://hub.docker.com/repository/docker/austinrivas/deno-alpine)
